@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cursor-react2/static/css/main.0ed87138.chunk.css",
+    "main.js": "/cursor-react2/static/js/main.c306a765.chunk.js",
+    "main.js.map": "/cursor-react2/static/js/main.c306a765.chunk.js.map",
+    "runtime-main.js": "/cursor-react2/static/js/runtime-main.a019d9f0.js",
+    "runtime-main.js.map": "/cursor-react2/static/js/runtime-main.a019d9f0.js.map",
+    "static/js/2.ae45b39b.chunk.js": "/cursor-react2/static/js/2.ae45b39b.chunk.js",
+    "static/js/2.ae45b39b.chunk.js.map": "/cursor-react2/static/js/2.ae45b39b.chunk.js.map",
+    "index.html": "/cursor-react2/index.html",
+    "precache-manifest.963982cdef03fb377003d751531bdc78.js": "/cursor-react2/precache-manifest.963982cdef03fb377003d751531bdc78.js",
+    "service-worker.js": "/cursor-react2/service-worker.js",
+    "static/css/main.0ed87138.chunk.css.map": "/cursor-react2/static/css/main.0ed87138.chunk.css.map",
+    "static/js/2.ae45b39b.chunk.js.LICENSE.txt": "/cursor-react2/static/js/2.ae45b39b.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/cursor-react2/static/media/loupe.b94d21f4.png",
+    "static/media/male.png": "/cursor-react2/static/media/male.055b64e7.png",
+    "static/media/phone-call.png": "/cursor-react2/static/media/phone-call.9e63954c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a019d9f0.js",
+    "static/js/2.ae45b39b.chunk.js",
+    "static/css/main.0ed87138.chunk.css",
+    "static/js/main.c306a765.chunk.js"
+  ]
+}
